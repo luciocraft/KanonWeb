@@ -1,0 +1,73 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				6
+			],
+			"anim": "miss",
+			"fps": 24,
+			"name": "Nene miss laugh",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-12
+			],
+			"anim": "cute",
+			"fps": 24,
+			"name": "nene cheer",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Nene Dancing Beat"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nene",
+	"position": [
+		-60,
+		20
+	],
+	"healthicon": "nene",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		88,
+		164
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}
